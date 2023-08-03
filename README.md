@@ -4,7 +4,7 @@ This repository contains the code and data for a Power BI dashboard that shows t
 
 ## Data Source
 
-The data source for this dashboard is the already given in the repositories, which provide daily updates on the Covid-19 cases in India at the national, state and district level till July 7, 2021
+The data source for this dashboard is the already given in the repositories, which provide daily updates on the Covid-19 cases in India at the national and state level till July 7, 2021
 
 ## How to Use
 
